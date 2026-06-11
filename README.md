@@ -16,7 +16,7 @@
 
 ## 4. How to run the tests (setup steps)
 
-- **Open the test class (e.g., "TC001.java")**
+- **Open the test class (e.g., "TC_001.java")**
 - **Right-click on the file**
 - **Select Run As → Java Application**
 
