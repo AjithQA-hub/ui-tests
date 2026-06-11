@@ -23,4 +23,4 @@
 ## 5. Test Case Used from Task 1
 
 - Positive Scenario: **TC_001**
-- Negative Scneario: **TC_005**
+- Negative Scenario: **TC_005**
