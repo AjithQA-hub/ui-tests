@@ -19,3 +19,8 @@
 - **Open the test class (e.g., "TC001.java")**
 - **Right-click on the file**
 - **Select Run As → Java Application**
+
+## 5. Test Case Used from Task 1
+
+- Positive Scenario: **TC_001**
+- Negative Scneario: **TC_005**
